@@ -1,16 +1,28 @@
-## Hi there 👋
+# Привет, я Сергей! 👋
 
-<!--
-**danilov-go/danilov-go** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Go Developer | Lead Test Engineer @ RKS
 
-Here are some ideas to get you started:
+Инженер из космической отрасли. Автоматизирую процессы испытаний с применением Go, фокусируясь на высокой скорости и отказоустойчивости кода.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Мой главный результат:
+Разработал инструмент на **Go** для обработки данных испытаний, который кардинально ускорил рабочий цикл отдела:
+*   **Было:** 8 часов ручной обработки.
+*   **Стало:** 10 секунд автоматизированного процесса.
+*   **Что внутри:** Использование горутин для параллельных вычислений и строгая типизация данных.
+
+## 🛠 Технологии:
+- **Backend:** Go (Golang) — Concurrency, Standard Library, Interfaces.
+- **Инструменты:** Git, Docker, SQL, Bash.
+- **Инженерные навыки:** Оптимизация процессов, системное мышление.
+
+---
+
+## 📈 Сейчас я:
+*   Углубляю знания на курсе **«Go-разработчик» в Яндекс Практикуме** (продвинутый уровень).
+*   Изучаю микросервисную архитектуру и высоконагруженные системы.
+
+---
+
+[💬 Написать мне в Telegram](https://danilovesergey/t.me)
