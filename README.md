@@ -25,4 +25,4 @@
 
 ---
 
-[💬 Написать мне в Telegram](https://danilovesergey/t.me)
+[💬 Написать мне в Telegram](https://t.me/danilovesergey)
